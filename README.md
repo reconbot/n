@@ -1,5 +1,7 @@
 # `n` – Interactively Manage Your Node.js Versions
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/n.svg)](https://greenkeeper.io/)
+
 [![Join the chat at https://gitter.im/tj/n](https://img.shields.io/gitter/room/tj/n.svg?style=flat-square)](https://gitter.im/tj/n)
 [![npm](https://img.shields.io/npm/dt/n.svg?style=flat-square)](https://www.npmjs.com/package/n)
 [![npm](https://img.shields.io/npm/dm/n.svg?style=flat-square)](https://www.npmjs.com/package/n)
